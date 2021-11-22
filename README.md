@@ -5,7 +5,7 @@
 - 📖 Faço Faculdade de ADS na Faculdade Impacta estou no 1° semestre, a faculdade é voltada para a Linguagem Python,
       abordandos as areas principais da linguagem (dados, back, front, mobile)
 - 📖 Stack para aprendizado é Python, Django, AWS
-- 📖 Desenvolvendo um projeto ERP junto minha esposa, as Stack utilizadas vão ser Java, SpringBoot, Angular. (fase: Cadastrado estoria no Jira)
+- 📖 Desenvolvendo um projeto ERP junto minha esposa, as Stack utilizadas vão ser Java, Spring, Angular. (fase: Cadastrado estoria no Jira)
 - 😛 ele/dele
 - ❤️ Pai do Luiz Miguel
 - 🚀 Missão: Minha esposa e eu estudamos para adquirir o maior conhecimento em desenvolvimento para no futuro abrir um espaço onde podemos compartilhar nosso conhecimento com pessoas que não tem acessibilidade a um computador e qualificações necessárias para trabalhar na área. O mundo da TI já nos deu tantos frutos que sentimos a necessidade de fazer isso para o próximo.
@@ -20,6 +20,10 @@
   <img align="center" alt="Bruno-Django" height="40" width="120" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="Bruno-AWS" height="40" width="120" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
+  <div style="display: inline_block"><br>     
+  <img align="center" alt="Bruno-Java" height="40" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Bruno-Spring" height="40" width="120" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Bruno-Angular" height="40" width="120" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   
   ##
   
