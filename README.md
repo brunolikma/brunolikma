@@ -2,10 +2,13 @@
 ##
 
 - 👨‍💻 Hoje Trabalho com Suporte a Sistemas e implantações, trabalho com PL/SQL e algumas tarefas automatizadas com Python
-- 📖 Faço Faculdade de ADS na Faculdade Impacta e minha Stack para aprendizado é Python, Django, AWS
+- 📖 Faço Faculdade de ADS na Faculdade Impacta estou no 1° semestre, a faculdade é voltada para a Linguagem Python,
+      abordandos as areas principais da linguagem (dados, back, front, mobile)
+- 📖 Stack para aprendizado é Python, Django, AWS
+- 📖 Desenvolvendo um projeto ERP junto minha esposa, as Stack utilizadas vão ser Java, SpringBoot, Angular. (fase: Cadastrado estoria no Jira)
 - 😛 ele/dele
 - ❤️ Pai do Luiz Miguel
-
+- 🚀 Missão: Minha esposa e eu estudamos para adquirir o maior conhecimento em desenvolvimento para no futuro abrir um espaço onde podemos compartilhar nosso conhecimento com pessoas que não tem acessibilidade a um computador e qualificações necessárias para trabalhar na área. O mundo da TI já nos deu tantos frutos que sentimos a necessidade de fazer isso para o próximo.
 
 <div align="center">
   <a href="https://github.com/brunolikma">
