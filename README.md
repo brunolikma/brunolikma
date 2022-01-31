@@ -33,5 +33,6 @@
   <a href="https://www.linkedin.com/in/brunolimadevsp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
         
-<p align="center"> texto que você quiser </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/brunolikma/count.svg" /></p>
+<p align="center"> Inicio do Contador: 30/01/2021</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/brunolikma/count.svg" /></p>        
+
