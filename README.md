@@ -1,7 +1,7 @@
 ### Olá!! Sou o Bruno Lima! 👋
 ##
 
-- 👨‍💻 Hoje Trabalho com Suporte a Sistemas e implantações, trabalho com PL/SQL e algumas tarefas automatizadas com Python
+- 👨‍💻 Hoje Trabalho como Engenheiro de dados na Capgemini, trabalho com Pyspark, SQL.
 - 📖 Faço Faculdade de ADS na Faculdade Impacta estou no 1° semestre, a faculdade é voltada para a Linguagem Python,
       abordandos as areas principais da linguagem (dados, back, front, mobile)
 - 📖 Stack para aprendizado é Python, Django, AWS
